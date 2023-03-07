@@ -97,8 +97,6 @@ a:hover{
 .sec-div{
     display: flex;
     flex-direction: column;
-    /* justify-content: start;
-    align-items: center; */
     flex-wrap: wrap;
     gap: 5px;
     color: aliceblue;
@@ -111,6 +109,7 @@ a:hover{
     justify-content: center;
     align-items: center;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 .sect-container-1{
     display: flex;
