@@ -189,7 +189,13 @@ a:hover{
 
 }
 .logo{
-    width: 30px;
+    width: 50px;
+    height: 50px;
+}
+.logoss{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
 }
 .buttonx{
     width: 100%;
